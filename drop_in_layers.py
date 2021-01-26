@@ -1,3 +1,4 @@
+# Framework code availible on request from UMass CS 682 staff
 def drop_in_forward(x, drop_in_param):
     p, mode, random_val = drop_in_param['p'], drop_in_param['mode'], drop_in_param['random_val']
     if 'seed' in drop_in_param:
